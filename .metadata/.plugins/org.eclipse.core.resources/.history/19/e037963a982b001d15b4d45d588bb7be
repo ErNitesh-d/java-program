@@ -1,0 +1,35 @@
+<web-app>
+<servlet>
+<description> </description>
+<display-name>FirstServlet</display-name>
+ <servlet-name>FirstServlet</servlet-name> 
+ <servlet-class>LoginServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+<servlet-name>FirstServlet</servlet-name> 
+<url-pattern>/LoginServlet</url-pattern> 
+</servlet-mapping>
+
+<servlet>
+<description></description>
+<display-name>SecondServlet</display-name>
+<servlet-name>SecondServlet</servlet-name> 
+<servlet-class>ProfileServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>SecondServlet</servlet-name> 
+<url-pattern>/ProfileServlet</url-pattern>
+</servlet-mapping>
+<servlet>
+<description></description>
+<display-name> LogoutServlet</display-name>
+<servlet-name>LogoutServlet</servlet-name>
+<servlet-class>Logoutservlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>LogoutServlet</servlet-name>
+<url-pattern>/Logoutservlet</url-pattern>
+</servlet-mapping>
+</web-app>
+

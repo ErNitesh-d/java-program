@@ -1,0 +1,13 @@
+<%@ page import="java.sql.*" %>
+<%! public Connection con; %>
+%>
+
+
+
+try{
+Class.for Name("com.mysql.jdbc.Driver");
+con=DriverManager.getConnection("jdbc: mysql://localhost/gkck","root","");
+}
+catch(Exception e){ System.out.println(e);
+}
+<%

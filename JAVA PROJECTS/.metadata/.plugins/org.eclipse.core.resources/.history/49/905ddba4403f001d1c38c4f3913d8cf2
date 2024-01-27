@@ -1,0 +1,23 @@
+<%@ include file="Connection.jsp" %>
+<%@page import= "java.sql.*" %>
+<%%!  int Id ; %>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+ </title>
+
+</head>
+<body>
+<%!
+ResultSet rs;
+Statement st;
+%>
+out.println("<a href='index.jsp'>Add New Employee</a>"); <%
+try{
+st=con.createStatement();
+rs=st.executeQuery("select *from reg");
+%>
+<center><h1 align="center">Registration Detail</h1></center>
+<table border="1" align="center">
+<tr>
+PREPARED BY:KULDEEP M. JOSHI | SHRE

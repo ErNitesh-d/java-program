@@ -1,0 +1,41 @@
+
+<!DocType html>
+<html>
+<body>
+<div style=" margin: auto;
+width: 75%;
+text-align: center;
+padding: 70px 0;
+border: 0px solid white;
+text-align: header;
+margin-top: 50px;">
+<form action="Hello" method="get">
+Enter Your FirstName:-<input type="text" name="FirstName"><br>
+Enter Your LastName:-<input type="text" name="LastName"><br>
+Select Your Gender:-
+<input type="radio" id="Male" name="Gender" value="Male">
+<label for="Male">Male</label>
+<input type="radio" id="Female" name="Gender" value="Female">
+<label for="Female">Female</label><br>
+<label for="cars">Select Your Country:-</label>
+<select name="Country" id="cars">
+<option value="India">India</option>
+<option value=" America">America</option>
+<option value=" Afghanistan">Afghanistan</option>
+<option value="Pakistan">Pakistan</option>
+<option value="china">china</option>
+</select><br>
+<br>
+<br>
+<input type="submit" style=" position: relative; background-color:black ; /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: white;
+font-size: 15px;"value="submit">
+</form>
+</div>
+</body>
+</html>

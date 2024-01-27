@@ -1,0 +1,8 @@
+package methodoverloading;
+
+public class methodovr1 {
+public static void main(String args[]){
+	System.out.println("NITIN");
+	
+}
+}

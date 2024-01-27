@@ -1,0 +1,24 @@
+<web-app>
+
+<servlet>
+
+<servlet-name>set_cookie</servlet-name> <servlet-class>HelloForm</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+
+<servlet-name>set_cookie</servlet-name>
+ <url-pattern>/HelloForm</url-pattern> </servlet-mapping>
+
+<servlet>
+<servlet-name>read_cookie</servlet-name>
+<servlet-class>ReadCookies</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>read_cookie</servlet-name>
+ <url-pattern>/Read</url-pattern>
+
+</servlet-mapping>
+</web-app>

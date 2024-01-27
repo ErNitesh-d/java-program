@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>ASSIGNMMENT_2</display-name>
+  <servlet>
+<servlet-name>firstServlet</servlet-name>
+<servlet-class>App_Form</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>firstServlet</servlet-name>
+<url-pattern>/Hello</url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,12 @@
+package com.gkck;
+import java.util.*;
+public class stdemo {
+	public static void main(String[] args) {
+		StringTokenizer st = new StringTokenizer("Hello Students !");
+		
+		while(st.hasMoreTokens()) {
+			System.out.println(st.nextToken());
+		}
+	}
+
+}

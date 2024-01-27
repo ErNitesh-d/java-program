@@ -1,0 +1,88 @@
+
+Aug 09, 2022 13:25:08.77 NEW SESSION
+Aug 09, 2022 13:25:08.77 [9680:10132:0809/132508.775:ERROR:device_event_log_impl.cc(214)] [13:25:08.774] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 09, 2022 13:25:08.77 [9680:10132:0809/132508.775:ERROR:device_event_log_impl.cc(214)] [13:25:08.775] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 09, 2022 13:25:09.61 [9680:3164:0809/132509.613:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:25:39.06 [9680:3164:0809/132539.066:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:26:31.60 [9680:3164:0809/132631.603:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:28:29.69 [9680:3164:0809/132829.695:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:31:23.58 [9680:3164:0809/133123.580:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:36:53.76 [9680:3164:0809/133653.766:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 13:46:53.77 [9680:3164:0809/134653.771:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Sep 22, 2022 20:09:14.63 NEW SESSION
+Sep 22, 2022 20:09:14.63 [13980:2576:0922/200914.631:ERROR:device_event_log_impl.cc(214)] [20:09:14.630] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 22, 2022 20:09:14.80 [13980:2576:0922/200914.631:ERROR:device_event_log_impl.cc(214)] [20:09:14.631] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 22, 2022 20:09:44.48 [13980:10260:0922/200944.482:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 22, 2022 20:09:44.85 [13980:2576:0922/200944.856:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 22, 2022 20:09:46.37 [13980:2576:0922/200946.374:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 22, 2022 20:10:12.06 [13980:10260:0922/201012.065:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Sep 27, 2022 20:53:19.27 NEW SESSION
+Sep 27, 2022 20:53:19.27 [12892:10416:0927/205319.264:ERROR:network_service_instance_impl.cc(464)] Network service crashed, restarting service.
+Sep 27, 2022 20:53:23.65 [12892:10416:0927/205323.653:ERROR:device_event_log_impl.cc(214)] [20:53:23.653] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 20:53:23.65 [12892:10416:0927/205323.658:ERROR:device_event_log_impl.cc(214)] [20:53:23.657] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 20:53:51.56 [12892:15768:0927/205351.568:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:53:58.90 [12892:10416:0927/205358.903:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Sep 27, 2022 20:54:00.49 [12892:10416:0927/205400.493:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Sep 27, 2022 20:54:19.46 [12892:15768:0927/205419.463:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:54:27.29 [12892:15768:0927/205427.299:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:55:27.32 [12892:15768:0927/205527.319:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:56:27.34 [12892:15768:0927/205627.345:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:57:27.82 [12892:15768:0927/205727.822:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:58:29.32 [12892:15768:0927/205829.325:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 20:59:29.30 [12892:15768:0927/205929.306:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:00:29.80 [12892:15768:0927/210029.809:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:01:34.23 [7868:1604:0927/210133.884:ERROR:device_event_log_impl.cc(214)] [21:01:33.885] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 21:01:34.27 [7868:1604:0927/210133.888:ERROR:device_event_log_impl.cc(214)] [21:01:33.886] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 21:01:37.41 [7868:1396:0927/210137.417:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:02:07.21 [7868:1396:0927/210207.214:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:02:30.82 [7868:1396:0927/210230.820:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:03:01.54 [10044:16104:0927/210301.543:ERROR:device_event_log_impl.cc(214)] [21:03:01.537] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 21:03:01.54 [10044:16104:0927/210301.543:ERROR:device_event_log_impl.cc(214)] [21:03:01.538] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2022 21:03:06.41 [10044:4396:0927/210306.414:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:03:33.63 [10044:4396:0927/210333.635:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:04:26.64 [10044:4396:0927/210426.648:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:04:31.29 [10044:4396:0927/210431.299:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 27, 2022 21:05:31.83 [10044:4396:0927/210531.830:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Sep 29, 2022 20:12:29.79 NEW SESSION
+Sep 29, 2022 20:12:29.79 [8432:8220:0929/201229.789:ERROR:device_event_log_impl.cc(214)] [20:12:29.788] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 29, 2022 20:12:29.88 [8432:8220:0929/201229.789:ERROR:device_event_log_impl.cc(214)] [20:12:29.789] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 29, 2022 20:12:31.35 [8432:7144:0929/201231.354:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:12:31.36 [8432:7144:0929/201231.354:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:31.36 [8432:7144:0929/201231.360:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:31.36 [8432:7144:0929/201231.360:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:31.36 [8432:7144:0929/201231.360:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:52.82 [8432:7144:0929/201252.824:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:54.55 [8432:7144:0929/201254.552:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:12:56.05 [8432:7144:0929/201256.059:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:00.34 [8432:7144:0929/201300.341:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:13:00.59 [8432:7144:0929/201300.591:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:35.34 [8432:7144:0929/201335.340:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:40.90 [8432:7144:0929/201340.908:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:13:42.08 [8432:7144:0929/201342.083:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:42.79 [8432:7144:0929/201342.791:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:54.98 [8432:7144:0929/201354.989:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:13:58.32 [8432:7144:0929/201358.326:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:15:02.27 [8432:7144:0929/201502.271:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:15:33.54 [8432:7144:0929/201533.544:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:15:36.08 [8432:7144:0929/201536.089:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:15:37.24 [8432:7144:0929/201537.248:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:17:29.66 [8432:7144:0929/201729.661:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:18:35.36 [8432:7144:0929/201835.364:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:19:14.65 [8432:7144:0929/201914.659:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:19:30.84 [8432:7144:0929/201930.847:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:19:34.61 [8432:7144:0929/201934.613:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:24:30.09 [8432:7144:0929/202430.094:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:24:41.72 [8432:7144:0929/202441.728:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:25:38.76 [8432:7144:0929/202538.766:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:26:25.69 [8432:7144:0929/202625.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:26:25.69 [8432:8220:0929/202625.694:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Sep 29, 2022 20:27:12.25 [8432:7144:0929/202712.256:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:31:17.48 [8432:7144:0929/203117.487:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:31:39.67 [8432:7144:0929/203139.679:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:32:27.72 [8432:7144:0929/203227.729:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:33:53.43 [8432:7144:0929/203353.436:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Sep 29, 2022 20:34:41.73 [8432:7144:0929/203441.738:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 20:37:29.02 [8432:7144:0929/203729.021:ERROR:registration_request.cc(251)] Registration URL fetching failed.

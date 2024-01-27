@@ -1,0 +1,13 @@
+<%@ include file="Connection.jsp" %>
+<%@ page import="java.sql.*" %>
+-Prepared by: Kuldeep Joshi
+<%! int Id; %>
+<%! String Name, Password, Email, Country; %>
+<%
+out.println("<h1>Update Employee</h1>");
+String sid=request.getParameter("id");
+int id=Integer.parseInt(sid);
+PreparedStatement ps = con.prepareStatement("select * from reg where id=?");
+ps.setInt(1,id);
+ResultSet rs=ps.executeQuery();
+if(rs.next()){
